@@ -1,5 +1,6 @@
 <div align="center">
-  ![Ardivan](img/github-header.png)
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Hello,%20I'm%20ArdivanNur%20RaihanRahman&fontSize=30&fontColor=ffffff" />
+<!--   ![Ardivan](img/github-header.png) -->
   <p><i>💻 RPL Student from SMKN 13 Bandung 💡</i></p>
 </div>
 
