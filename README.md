@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 
 Halo! Saya **Ardivan**, seorang pelajar jurusan **Rekayasa Perangkat Lunak (RPL)** dari **SMKN 13 Bandung**.  
-Saat ini saya sedang fokus belajar **JavaScript**, **Node.js**, dan **Express.js** untuk menjadi **Fullstack Web Developer**.
+Saat ini saya sedang fokus belajar **JavaScript**, **Node.js**, **PHP**, **Laravel** untuk menjadi **Backend Web Developer**.
 
 ---
 
@@ -20,7 +20,6 @@ Saat ini saya sedang fokus belajar **JavaScript**, **Node.js**, dan **Express.js
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ---
 
