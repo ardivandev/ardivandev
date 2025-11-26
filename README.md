@@ -8,8 +8,8 @@
 
 ## 🧑‍💻 About Me
 
-Halo! Saya **Ardivan**, seorang pelajar jurusan **Rekayasa Perangkat Lunak (RPL)** dari **SMKN 13 Bandung**.  
-Saat ini saya sedang fokus belajar **JavaScript**, **Node.js**, **PHP**, **Laravel** untuk menjadi **Backend Web Developer**.
+Halo, Saya **Ardivan Nur Raihan Rahman**, seorang pelajar jurusan **Rekayasa Perangkat Lunak (RPL)** di **SMKN 13 Bandung**.
+Saat ini saya fokus membangun skill untuk menjadi **Backend Web Developer** sekaligus memahami proses **Quality Assurance**.
 
 ---
 
