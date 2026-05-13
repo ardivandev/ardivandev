@@ -1,15 +1,15 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Hello,%20I'm%20Ardivan%20Nur%20Raihan%20Rahman&fontSize=30&fontColor=ffffff" />
 <!--   ![Ardivan](img/github-header.png) -->
-  <p><i>💻 RPL Student from SMKN 13 Bandung 💡</i></p>
+  <p><i>💻 RPL graduate from SMKN 13 Bandung 💡</i></p>
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-Halo, Saya **Ardivan Nur Raihan Rahman**, seorang pelajar jurusan **Rekayasa Perangkat Lunak (RPL)** di **SMKN 13 Bandung**.
-Saat ini saya fokus membangun skill untuk menjadi **Backend Web Developer** sekaligus memahami proses **Quality Assurance**.
+Halo, Saya **Ardivan Nur Raihan Rahman**, seorang lulusan **SMKN 13 Bandung** jurusan **Rekayasa Perangkat Lunak (RPL)**.
+Saat ini saya fokus membangun skill untuk menjadi **Web Developer** sekaligus memahami proses **Quality Assurance**.
 
 ---
 
