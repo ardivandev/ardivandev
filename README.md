@@ -6,7 +6,7 @@ I'm a fresh graduate of Rekayasa Perangkat Lunak (RPL) from SMKN 13 Bandung and 
 
 ⚙️ Tools and Languages:
 
-OS Fedora, Visual Studio Code, LAMP, Figma, Postman, Playwright, Git, HTML, CSS, JavaScript.
+OS Fedora, Visual Studio Code, LAMP, Figma, Postman, Playwright, Git, HTML, CSS, JavaScript, Bootstrap, jQuery.
 
 📬 You can find me in:
 
