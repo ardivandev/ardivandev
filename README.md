@@ -1,4 +1,5 @@
 # Hi, I'm Ardivan 👋
+Front-End Developer | Quality Assurance Tester
 
 ✨ Activity:
 
@@ -6,7 +7,7 @@ I'm a fresh graduate of Rekayasa Perangkat Lunak (RPL) from SMKN 13 Bandung and 
 
 ⚙️ Tools and Languages:
 
-OS Fedora, Visual Studio Code, LAMP, Figma, Postman, Playwright, Git, HTML, CSS, JavaScript, Bootstrap, jQuery, Tailwind CSS, Alpine JS (Dasar), React JS.
+OS Ubuntu, Visual Studio Code, LAMP, Figma, Postman, Playwright, Git, HTML, CSS, JavaScript, Bootstrap, jQuery, Tailwind CSS, Alpine JS (Dasar), React JS.
 
 📬 You can find me in:
 
