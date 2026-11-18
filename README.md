@@ -1,4 +1,4 @@
-# Hi, I'm Ardivan 👋
+# Hi, I'm Ardivan Nur Raihan Rahman 👋
 
 I'm a Junior Front-End Developer and Software Engineering graduate from SMKN 13 Bandung. I enjoy building responsive and user-friendly websites using HTML, CSS, JavaScript, React.js, and Tailwind CSS.
 
