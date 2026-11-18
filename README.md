@@ -1,13 +1,8 @@
 # Hi, I'm Ardivan 👋
-Front-End Developer | Quality Assurance Tester
 
-✨ Activity:
+I'm a Junior Front-End Developer and Software Engineering graduate from SMKN 13 Bandung. I enjoy building responsive and user-friendly websites using HTML, CSS, JavaScript, React.js, and Tailwind CSS.
 
-I'm a fresh graduate of Rekayasa Perangkat Lunak (RPL) from SMKN 13 Bandung and a passionate Web Developer Enthusiast.
-
-⚙️ Tools and Languages:
-
-OS Ubuntu, Visual Studio Code, LAMP, Figma, Postman, Playwright, Git, HTML, CSS, JavaScript, Bootstrap, jQuery, Tailwind CSS, Alpine JS (Dasar), React JS.
+I also have experience as a QA Tester Intern, working with manual UI/API testing, test cases, bug reporting, Postman, and Playwright. I'm currently looking for opportunities to grow as a Front-End Developer and contribute to real-world web projects.
 
 📬 You can find me in:
 
